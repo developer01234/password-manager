@@ -29,7 +29,7 @@ $ cd password-manager
 2. Запустите приложение:
 
 ```bash
-$ python password_manager.py
+$ python main.py
 ```
 
 ## Использование
